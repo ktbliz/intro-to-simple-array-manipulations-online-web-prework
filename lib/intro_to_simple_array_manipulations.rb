@@ -29,7 +29,7 @@ end
 
 def using_uniq(array)
 
-end
+end  
 
 def using_flatten(array)
 
