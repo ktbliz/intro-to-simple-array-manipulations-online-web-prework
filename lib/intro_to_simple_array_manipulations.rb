@@ -18,7 +18,7 @@ def using_shift(array)
 
 end 
 
-def shift_with_args, num_elements_to_remove)
+def shift_with_args (num_elements_to_remove)
 
 end 
 
@@ -27,7 +27,7 @@ def using_concat(array1, array2)
 end 
 
 def using_insert(array, new_element)
-  array.insert at 4th position
+  array.insert
 end 
 
 def using_uniq(array)
