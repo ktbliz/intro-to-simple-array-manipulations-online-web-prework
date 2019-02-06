@@ -7,11 +7,11 @@ def using_unshift(array, new_string)
 end
 
 def using_pop
-
+  array.pop
 end 
 
 def pop_with_args(array, num_elements_to_remove)
-
+  
 end
 
 def using_shift(array)
