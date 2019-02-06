@@ -1,7 +1,10 @@
 def using_push(array, new_string)
   
+end
 
 def using_unshift(array, new_string)
+  
+end
 
 def using_pop
 
